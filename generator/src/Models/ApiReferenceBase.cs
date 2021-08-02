@@ -6,5 +6,6 @@ namespace Builder.Models
         public ApiReferenceUri Uri { get; set; }
         public ApiReferenceTitle Titles { get; set; }
         public ApiReferenceComment Comment { get; set; }
+        
     }
 }
