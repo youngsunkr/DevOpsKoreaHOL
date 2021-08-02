@@ -1,3 +1,6 @@
+# 깃헙 연동 실습 완료 179
+## 179번 티켓도 실습 완료 될겁니다.
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
